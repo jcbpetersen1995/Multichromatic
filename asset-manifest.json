@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Multichromatic/static/css/main.940e5470.chunk.css",
-    "main.js": "/Multichromatic/static/js/main.62487739.chunk.js",
-    "main.js.map": "/Multichromatic/static/js/main.62487739.chunk.js.map",
+    "main.css": "/Multichromatic/static/css/main.58c4dd96.chunk.css",
+    "main.js": "/Multichromatic/static/js/main.d614d839.chunk.js",
+    "main.js.map": "/Multichromatic/static/js/main.d614d839.chunk.js.map",
     "runtime-main.js": "/Multichromatic/static/js/runtime-main.6f4a18ab.js",
     "runtime-main.js.map": "/Multichromatic/static/js/runtime-main.6f4a18ab.js.map",
     "static/css/2.11829350.chunk.css": "/Multichromatic/static/css/2.11829350.chunk.css",
-    "static/js/2.dac2ff09.chunk.js": "/Multichromatic/static/js/2.dac2ff09.chunk.js",
-    "static/js/2.dac2ff09.chunk.js.map": "/Multichromatic/static/js/2.dac2ff09.chunk.js.map",
+    "static/js/2.805bd440.chunk.js": "/Multichromatic/static/js/2.805bd440.chunk.js",
+    "static/js/2.805bd440.chunk.js.map": "/Multichromatic/static/js/2.805bd440.chunk.js.map",
     "index.html": "/Multichromatic/index.html",
-    "precache-manifest.d4b15408b32d44b7161fd5eda0c7d365.js": "/Multichromatic/precache-manifest.d4b15408b32d44b7161fd5eda0c7d365.js",
+    "precache-manifest.be74feef6426780fd882a00ee1e0a296.js": "/Multichromatic/precache-manifest.be74feef6426780fd882a00ee1e0a296.js",
     "service-worker.js": "/Multichromatic/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/Multichromatic/static/css/2.11829350.chunk.css.map",
-    "static/css/main.940e5470.chunk.css.map": "/Multichromatic/static/css/main.940e5470.chunk.css.map",
-    "static/js/2.dac2ff09.chunk.js.LICENSE.txt": "/Multichromatic/static/js/2.dac2ff09.chunk.js.LICENSE.txt",
+    "static/css/main.58c4dd96.chunk.css.map": "/Multichromatic/static/css/main.58c4dd96.chunk.css.map",
+    "static/js/2.805bd440.chunk.js.LICENSE.txt": "/Multichromatic/static/js/2.805bd440.chunk.js.LICENSE.txt",
     "static/media/JP.logo.tiny.png": "/Multichromatic/static/media/JP.logo.tiny.92fd6daa.png",
     "static/media/JacobPetersen_r1_DEN_3082.jpg": "/Multichromatic/static/media/JacobPetersen_r1_DEN_3082.51507982.jpg",
     "static/media/index.css": "/Multichromatic/static/media/rainbow.tiny.bb389ad4.jpeg"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.6f4a18ab.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.dac2ff09.chunk.js",
-    "static/css/main.940e5470.chunk.css",
-    "static/js/main.62487739.chunk.js"
+    "static/js/2.805bd440.chunk.js",
+    "static/css/main.58c4dd96.chunk.css",
+    "static/js/main.d614d839.chunk.js"
   ]
 }
