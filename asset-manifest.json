@@ -1,28 +1,33 @@
 {
   "files": {
-    "main.css": "/Multichromatic/static/css/main.58c4dd96.chunk.css",
-    "main.js": "/Multichromatic/static/js/main.3a050c7b.chunk.js",
-    "main.js.map": "/Multichromatic/static/js/main.3a050c7b.chunk.js.map",
+    "main.css": "/Multichromatic/static/css/main.0de9f874.chunk.css",
+    "main.js": "/Multichromatic/static/js/main.c8ba9a0c.chunk.js",
+    "main.js.map": "/Multichromatic/static/js/main.c8ba9a0c.chunk.js.map",
     "runtime-main.js": "/Multichromatic/static/js/runtime-main.6f4a18ab.js",
     "runtime-main.js.map": "/Multichromatic/static/js/runtime-main.6f4a18ab.js.map",
     "static/css/2.11829350.chunk.css": "/Multichromatic/static/css/2.11829350.chunk.css",
-    "static/js/2.805bd440.chunk.js": "/Multichromatic/static/js/2.805bd440.chunk.js",
-    "static/js/2.805bd440.chunk.js.map": "/Multichromatic/static/js/2.805bd440.chunk.js.map",
+    "static/js/2.b5c6bb68.chunk.js": "/Multichromatic/static/js/2.b5c6bb68.chunk.js",
+    "static/js/2.b5c6bb68.chunk.js.map": "/Multichromatic/static/js/2.b5c6bb68.chunk.js.map",
     "index.html": "/Multichromatic/index.html",
-    "precache-manifest.579c94b3f4bc27b1b5d3aeb4526a3d81.js": "/Multichromatic/precache-manifest.579c94b3f4bc27b1b5d3aeb4526a3d81.js",
+    "precache-manifest.106d6a9e4df12551dc89ba7f4ff78ed2.js": "/Multichromatic/precache-manifest.106d6a9e4df12551dc89ba7f4ff78ed2.js",
     "service-worker.js": "/Multichromatic/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/Multichromatic/static/css/2.11829350.chunk.css.map",
-    "static/css/main.58c4dd96.chunk.css.map": "/Multichromatic/static/css/main.58c4dd96.chunk.css.map",
-    "static/js/2.805bd440.chunk.js.LICENSE.txt": "/Multichromatic/static/js/2.805bd440.chunk.js.LICENSE.txt",
+    "static/css/main.0de9f874.chunk.css.map": "/Multichromatic/static/css/main.0de9f874.chunk.css.map",
+    "static/js/2.b5c6bb68.chunk.js.LICENSE.txt": "/Multichromatic/static/js/2.b5c6bb68.chunk.js.LICENSE.txt",
     "static/media/JP.logo.tiny.png": "/Multichromatic/static/media/JP.logo.tiny.92fd6daa.png",
     "static/media/JacobPetersen_r1_DEN_3082.jpg": "/Multichromatic/static/media/JacobPetersen_r1_DEN_3082.51507982.jpg",
-    "static/media/index.css": "/Multichromatic/static/media/rainbow.tiny.bb389ad4.jpeg"
+    "static/media/eat.png": "/Multichromatic/static/media/eat.0bf461f4.png",
+    "static/media/food.png": "/Multichromatic/static/media/food.dd7f3437.png",
+    "static/media/index.css": "/Multichromatic/static/media/rainbow.tiny.bb389ad4.jpeg",
+    "static/media/tri.png": "/Multichromatic/static/media/tri.c8ca0cf9.png",
+    "static/media/weather.png": "/Multichromatic/static/media/weather.7806a23f.png",
+    "static/media/work.png": "/Multichromatic/static/media/work.0c3916a0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6f4a18ab.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.805bd440.chunk.js",
-    "static/css/main.58c4dd96.chunk.css",
-    "static/js/main.3a050c7b.chunk.js"
+    "static/js/2.b5c6bb68.chunk.js",
+    "static/css/main.0de9f874.chunk.css",
+    "static/js/main.c8ba9a0c.chunk.js"
   ]
 }
