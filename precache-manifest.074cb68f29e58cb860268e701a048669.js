@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0c360b0a74f3c0bdba81a36ab468e8b0",
+    "revision": "a9446c1c826e319594420a3940b1e236",
     "url": "/Multichromatic/index.html"
   },
   {
-    "revision": "aa2f9973a0ab605145de",
+    "revision": "d34a534ebae1d86a47b5",
     "url": "/Multichromatic/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "757c01981a30e68ccff0",
-    "url": "/Multichromatic/static/css/main.0de9f874.chunk.css"
+    "revision": "7e0db91e636295730413",
+    "url": "/Multichromatic/static/css/main.b0450d68.chunk.css"
   },
   {
-    "revision": "aa2f9973a0ab605145de",
-    "url": "/Multichromatic/static/js/2.b5c6bb68.chunk.js"
+    "revision": "d34a534ebae1d86a47b5",
+    "url": "/Multichromatic/static/js/2.f639550c.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/Multichromatic/static/js/2.b5c6bb68.chunk.js.LICENSE.txt"
+    "url": "/Multichromatic/static/js/2.f639550c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "757c01981a30e68ccff0",
-    "url": "/Multichromatic/static/js/main.c8ba9a0c.chunk.js"
+    "revision": "7e0db91e636295730413",
+    "url": "/Multichromatic/static/js/main.c5b5bb79.chunk.js"
   },
   {
     "revision": "ef1338d3fe96aa760dec",
