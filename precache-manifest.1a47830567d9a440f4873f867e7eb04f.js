@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f39a55e7f63ade4e167a2a6f9f313a36",
+    "revision": "0679db6ee643e39ec1542bb03df6ced1",
     "url": "/Multichromatic/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Multichromatic/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "f41494716c0a54ba82b2",
-    "url": "/Multichromatic/static/css/main.c508f1ad.chunk.css"
+    "revision": "eed407482cc59f82f388",
+    "url": "/Multichromatic/static/css/main.8bc55059.chunk.css"
   },
   {
     "revision": "d34a534ebae1d86a47b5",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Multichromatic/static/js/2.f639550c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f41494716c0a54ba82b2",
+    "revision": "eed407482cc59f82f388",
     "url": "/Multichromatic/static/js/main.1e0c470c.chunk.js"
   },
   {
