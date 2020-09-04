@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Multichromatic/static/css/main.7599617c.chunk.css",
-    "main.js": "/Multichromatic/static/js/main.c2b72ffc.chunk.js",
-    "main.js.map": "/Multichromatic/static/js/main.c2b72ffc.chunk.js.map",
+    "main.js": "/Multichromatic/static/js/main.9ebe72e1.chunk.js",
+    "main.js.map": "/Multichromatic/static/js/main.9ebe72e1.chunk.js.map",
     "runtime-main.js": "/Multichromatic/static/js/runtime-main.6f4a18ab.js",
     "runtime-main.js.map": "/Multichromatic/static/js/runtime-main.6f4a18ab.js.map",
     "static/css/2.11829350.chunk.css": "/Multichromatic/static/css/2.11829350.chunk.css",
     "static/js/2.f639550c.chunk.js": "/Multichromatic/static/js/2.f639550c.chunk.js",
     "static/js/2.f639550c.chunk.js.map": "/Multichromatic/static/js/2.f639550c.chunk.js.map",
     "index.html": "/Multichromatic/index.html",
-    "precache-manifest.54c11f20f82e5fa7a087aaf8af9567f6.js": "/Multichromatic/precache-manifest.54c11f20f82e5fa7a087aaf8af9567f6.js",
+    "precache-manifest.4c35037293d307a647f4bca389c606f2.js": "/Multichromatic/precache-manifest.4c35037293d307a647f4bca389c606f2.js",
     "service-worker.js": "/Multichromatic/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/Multichromatic/static/css/2.11829350.chunk.css.map",
     "static/css/main.7599617c.chunk.css.map": "/Multichromatic/static/css/main.7599617c.chunk.css.map",
@@ -28,6 +28,6 @@
     "static/css/2.11829350.chunk.css",
     "static/js/2.f639550c.chunk.js",
     "static/css/main.7599617c.chunk.css",
-    "static/js/main.c2b72ffc.chunk.js"
+    "static/js/main.9ebe72e1.chunk.js"
   ]
 }
